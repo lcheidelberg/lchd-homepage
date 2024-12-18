@@ -6,17 +6,14 @@ Die Gruppe trifft sich zweimal im Monat, einmal in Präsenz und einmal im Online
 
 Die Präsenztreffen finden im Heidelberger ​Selbsthilfebüro statt. Die Adresse ist:
 > Alte Eppelheimer Straße 40/1, 69115 Heidelberg
->
->  Raum 1.7
->
->  (Eingang im Hinterhof von Haus 38)
 
+Die Treffen finden im Raum 1.7 statt. Der Eingang zum Selbsthilfebüro ist im Hinterhof vom Haus 38.
 Das Selbsthilfebüro verlangt einen Beitrag von ​1€ je Teilnehmer*in. Das Geld wird ​am Ende des Treffens eingesammelt.
 
 Die Onlinetreffen finden in Jitsi Meet statt und sind für die Teilnehmer*innen kostenlos. Für den Link zum ​Online-Meeting, kontaktieren Sie uns unter ​longcovidheidelberg@proton.me
 
 ### Präsenztermine 2025
-Turnus: letzter Mittwoch im Monat um 11 Uhr
+Turnus: letzter Mittwoch im Monat um 11 Uhr im Heidelberger Selbsthilfebüro
 
 * 29\. Januar, 11 Uhr
 * 26\. Februar, 11 Uhr
