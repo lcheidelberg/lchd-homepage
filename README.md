@@ -1,10 +1,14 @@
+---
+layout: page
+permalink: /
+---
 # Long Covid Selbsthilfegruppe ​Heidelberg
 Wir sind eine Gruppe für Betroffene von Long-/Post-Covid, Post-Vac ​und ME/CFS und deren Angehörige
 
 ## Treffen
 Die Gruppe trifft sich zweimal im Monat, einmal in Präsenz und einmal im Online-Meeting.
 
-Die Präsenztreffen finden im Heidelberger ​Selbsthilfebüro statt. Die Adresse ist:
+Die Präsenztreffen finden im [Heidelberger ​Selbsthilfebüro](https://www.selbsthilfe-heidelberg.de/) statt. Die Adresse ist:
 > Alte Eppelheimer Straße 40/1, 69115 Heidelberg
 
 Die Treffen finden im Raum 1.7 statt. Der Eingang zum Selbsthilfebüro ist im Hinterhof vom Haus 38.
