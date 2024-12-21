@@ -1,7 +1,3 @@
----
-title: 'Long Covid Selbsthilfegruppe Heidelberg'
-description: 'Selbsthilfegruppe für Betroffene von Long-/Post-Covid und ME/CFS in Heidelberg und deren Anghörige.'
----
 # Long Covid Selbsthilfegruppe ​Heidelberg
 Wir sind eine Selbsthilfegruppe für Betroffene von Long-/Post-Covid, Post-Vac ​und ME/CFS und deren Angehörige.
 
