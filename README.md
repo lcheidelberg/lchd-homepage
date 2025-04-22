@@ -27,7 +27,7 @@ zum Online-Termin vormittags auch einen **Online-Termin abends** an. Hier die ne
 
 | Präsenztreffen - Dienstagmittag, 12 Uhr im Selbsthilfebüro | Online-Treffen 1 - Donnerstagabend, 18 Uhr im Jitsi-Meet | Online-Treffen 2 - Mittwochvormittag, 11 Uhr im Jitsi-Meet |
 | --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| _ausnahmsweise_ Mittwoch, 30. April, 11 Uhr (letzter Termin des alten Terminplans)            | Donnerstag, 8. Mai                                      | Mittwoch, 21. Mai                                         |
+| **Mittwoch**, 30. April, 11 Uhr (letzter Termin des alten Terminplans)            | Donnerstag, 8. Mai                                      | Mittwoch, 21. Mai                                         |
 | Dienstag, 27. Mai.                                        | Donnerstag, 5. Juni                                     | Mittwoch, 18. Juni                                        |
 | Dienstag, 24. Juni                                        | Donnerstag, 3. Juli                                     | Mittwoch, 23. Juli                                        |
 | Dienstag, 29. Juli                                        | Donnerstag, 7. August                                   | Mittwoch, 20. August                                      |
