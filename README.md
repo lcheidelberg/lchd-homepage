@@ -20,7 +20,7 @@ Das Selbsthilfebüro verlangt einen Beitrag von ​1€ je Teilnehmer*in. Das Ge
 Die Onlinetreffen finden in Jitsi Meet statt und sind für die Teilnehmer*innen kostenlos. Für den Link zum ​Online-Meeting, kontaktieren Sie uns unter ​[longcovidheidelberg@proton.me](mailto:longcovidheidelberg@proton.me)
 
 ### Anstehende Termine 2025
-Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt. Es finden auch zwei Online-Termine statt, einen vormittags auch einen abends.
+Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt. Es finden auch zwei Online-Termine statt, einen vormittags und einen abends.
 
 | Präsenztreffen - Dienstagmittag, 12 Uhr im Selbsthilfebüro | Online-Treffen 1 - Donnerstagabend, 18 Uhr im Jitsi-Meet | Online-Treffen 2 - Mittwochvormittag, 11 Uhr im Jitsi-Meet |
 | --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
