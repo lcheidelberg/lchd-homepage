@@ -20,16 +20,10 @@ Das Selbsthilfebüro verlangt einen Beitrag von ​1€ je Teilnehmer*in. Das Ge
 Die Onlinetreffen finden in Jitsi Meet statt und sind für die Teilnehmer*innen kostenlos. Für den Link zum ​Online-Meeting, kontaktieren Sie uns unter ​[longcovidheidelberg@proton.me](mailto:longcovidheidelberg@proton.me)
 
 ### Anstehende Termine 2025
-_**Achtung, neue Termine!**_
-Ab Mai haben wir einen neuen Terminplan für unsere Treffen. Das
-Präsenztreffen findet künftig einmal im Monat **an einem Dienstag um 12 Uhr** statt, und wir bieten zusätzlich
-zum Online-Termin vormittags auch einen **Online-Termin abends** an. Hier die neuen Termine:
+Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt. Es finden auch zwei Online-Termine statt, einen vormittags auch einen abends.
 
 | Präsenztreffen - Dienstagmittag, 12 Uhr im Selbsthilfebüro | Online-Treffen 1 - Donnerstagabend, 18 Uhr im Jitsi-Meet | Online-Treffen 2 - Mittwochvormittag, 11 Uhr im Jitsi-Meet |
 | --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| **Mittwoch**, 30. April, 11 Uhr (letzter Termin des alten Terminplans)            | Donnerstag, 8. Mai                                      | Mittwoch, 21. Mai                                         |
-| Dienstag, 27. Mai.                                        | Donnerstag, 5. Juni                                     | Mittwoch, 18. Juni                                        |
-| Dienstag, 24. Juni                                        | Donnerstag, 3. Juli                                     | Mittwoch, 23. Juli                                        |
 | Dienstag, 29. Juli                                        | Donnerstag, 7. August                                   | Mittwoch, 20. August                                      |
 | Dienstag, 26. August                                      | Donnerstag, 4. September                                | Mittwoch, 24. September                                   |
 | Dienstag, 30. September                                   | Donnerstag, 9. Oktober                                  | Mittwoch, 22. Oktober                                     |
