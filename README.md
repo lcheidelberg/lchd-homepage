@@ -24,7 +24,7 @@ Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt
 
 | Präsenztreffen - Dienstagmittag, 12 Uhr im Selbsthilfebüro | Online-Treffen 1 - Donnerstagabend, 18 Uhr im Jitsi-Meet | Online-Treffen 2 - Mittwochvormittag, 11 Uhr im Jitsi-Meet |
 | --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| Dienstag,                                         | Donnerstag, 8. Januar                                   | Mittwoch, 21. Januar                                      |
+|                                          | Donnerstag, 8. Januar                                   | Mittwoch, 21. Januar                                      |
 | Dienstag, 27. Januar                                      | Donnerstag, 5. Februar                                   | Mittwoch, 18. Februar                                                                       |
 | Dienstag, 24. Februar                                        | Donnerstag, 5. März                                   | Mittwoch, 25. März                                      |
 | Dienstag, 31. März                                        | Donnerstag, 9. April                                   | Mittwoch, 22. April                                      |
@@ -32,8 +32,6 @@ Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt
 | Dienstag, 26. Mai                                        | Donnerstag, 4. Juni                                   | Mittwoch, 24. Juni                                      |
 | Dienstag, 30. Juni                                        | Donnerstag, 9. Juli                                   | Mittwoch,  22. Juli                                     |
 | Dienstag, 28. Juli                                        |                                   
-|
-                                   |
 
 Änderungen vorbehalten
 
