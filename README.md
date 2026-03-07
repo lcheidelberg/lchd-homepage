@@ -29,7 +29,7 @@ Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt
 | Dienstag, 24. Februar                                     | Donnerstag, 5. März                                     | Mittwoch, 25. März                                     |
 | Dienstag, 31. März                                        | Donnerstag, 9. April                                    | Mittwoch, 22. April                                      |
 | Dienstag, 28. April                                       | Donnerstag, 7. Mai                                      | Mittwoch, 20. Mai                                      |
-| Dienstag, 26. Mai                                         | Donnerstag, 4. Juni                                   | Mittwoch, 24. Juni                                      |
+| Dienstag, 26. Mai                                         | Donnerstag, 11. Juni                                   | Mittwoch, 24. Juni                                      |
 | Dienstag, 30. Juni                                        | Donnerstag, 9. Juli                                   | Mittwoch,  22. Juli                                     |
 | Dienstag, 28. Juli                                        |                                   
 
