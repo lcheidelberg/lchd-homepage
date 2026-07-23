@@ -1,0 +1,34 @@
+---
+layout: none
+permalink: /calendar.ics
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Long Covid Selbsthilfegruppe Heidelberg//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Long Covid Selbsthilfegruppe Heidelberg
+X-WR-TIMEZONE:Europe/Berlin
+{% for t in site.data.treffen.praesenz %}{% if t.date %}BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T120000
+DTEND;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T133000
+SUMMARY:Präsenztreffen Long Covid Selbsthilfegruppe
+CLASS:PRIVATE
+LOCATION:Alte Eppelheimer Straße 40/1\, 69115 Heidelberg\, Raum 1.7
+DESCRIPTION:Präsenztreffen der Long Covid Selbsthilfegruppe Heidelberg. Bitte per Signal oder E-Mail anmelden.
+END:VEVENT
+{% endif %}{% endfor %}{% for t in site.data.treffen.online1 %}{% if t.date %}BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T180000
+DTEND;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T193000
+SUMMARY:Online-Treffen Long Covid Selbsthilfegruppe{% if t.note %} – {{ t.note }}{% endif %}
+CLASS:PRIVATE
+DESCRIPTION:Online-Treffen der Long Covid Selbsthilfegruppe Heidelberg. Link per E-Mail anfragen: longcovidheidelberg@proton.me
+END:VEVENT
+{% endif %}{% endfor %}{% for t in site.data.treffen.online2 %}{% if t.date %}BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T110000
+DTEND;TZID=Europe/Berlin:{{ t.date | date: "%Y%m%d" }}T123000
+SUMMARY:Online-Treffen Long Covid Selbsthilfegruppe{% if t.note %} – {{ t.note }}{% endif %}
+CLASS:PRIVATE
+DESCRIPTION:Online-Treffen der Long Covid Selbsthilfegruppe Heidelberg. Link per E-Mail anfragen: longcovidheidelberg@proton.me
+END:VEVENT
+{% endif %}{% endfor %}END:VCALENDAR
