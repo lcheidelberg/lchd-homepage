@@ -1,5 +1,6 @@
 ---
 permalink: / 
+layout: default
 title: Long Covid Selbsthilfegruppe Heidelberg
 seo_title: Long Covid, Post Covid, ME/CFS Selbsthilfegruppe Heidelberg
 excerpt: Wir sind eine Selbsthilfegruppe für Betroffene von Long-/Post-Covid, Post-Vac ​und ME/CFS und deren Angehörige.
@@ -19,21 +20,15 @@ Das Selbsthilfebüro verlangt einen Beitrag von ​1€ je Teilnehmer*in. Das Ge
 
 Die Onlinetreffen sind für die Teilnehmer*innen kostenlos. Für den Link zum ​Online-Meeting, kontaktieren Sie uns unter ​[longcovidheidelberg@proton.me](mailto:longcovidheidelberg@proton.me)
 
-### Anstehende Termine 2026
+### Anstehende Termine 2026/2027
 Das Präsenztreffen findet einmal im Monat **an einem Dienstag um 12 Uhr** statt. Es finden auch zwei Online-Termine statt, einen vormittags und einen abends.
+
 
 | Präsenztreffen - Dienstagmittag, 12 Uhr im Selbsthilfebüro | Online-Treffen 1 - Donnerstagabend, 18 Uhr im Online-Meeting | Online-Treffen 2 - Mittwochvormittag, 11 Uhr im Online-Meeting |
 | --------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------|
-|                                                           | Donnerstag, 8. Januar                                   | Mittwoch, 21. Januar                                     |
-| Dienstag, 27. Januar                                      | Donnerstag, 5. Februar                                  | Mittwoch, 18. Februar                                  |
-| Dienstag, 24. Februar                                     | Donnerstag, 5. März                                     | Mittwoch, 25. März                                     |
-| Dienstag, 31. März                                        | Donnerstag, 9. April                                    | Mittwoch, 22. April                                      |
-| Dienstag, 28. April                                       | Donnerstag, 7. Mai                                      | Mittwoch, 20. Mai                                      |
-| Dienstag, 26. Mai                                         | Donnerstag, 11. Juni                                   | Mittwoch, 24. Juni                                      |
-| Dienstag, 30. Juni                                        | Donnerstag, 9. Juli                                   | Mittwoch,  22. Juli                                     |
-| Dienstag, 28. Juli                                        |                                   
-
-Änderungen vorbehalten
+{% for t in site.data.treffen.online2 %}{% assign p = site.data.treffen.praesenz[forloop.index0] %}{% assign o = site.data.treffen.online1[forloop.index0] %}| {{ p.label }} | {{ o.label }} | {{ t.label }}{% if t.note %} *({{ t.note }})*{% endif %} |
+{% endfor %}
+Änderungen vorbehalten. [Termine in Kalender-App importieren](/calendar.ics)
 
 
 ## Chat-Gruppe
