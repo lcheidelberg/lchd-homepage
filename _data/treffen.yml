@@ -44,7 +44,7 @@ online2:
   - date: 2026-12-16
     label: "Mittwoch, 16. Dezember 2026"
   - date: 2026-12-29
-    label: "Montag, 29. Dezember 2026"
-    note: "Ausnahme! Findet Montags online statt"
+    label: "Dienstag, 29. Dezember 2026"
+    note: "Ausnahme!! Findet Dienstags online statt"
   - date: 2027-01-20
     label: "Mittwoch, 20. Januar 2027"
