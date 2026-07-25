@@ -1,4 +1,5 @@
 praesenz:
+  - label: "–"
   - date: 2026-07-28
     label: "Dienstag, 28. Juli 2026"
   - date: 2026-08-25
@@ -15,6 +16,7 @@ praesenz:
   - label: "–"
 
 online1:
+  - label: "–"
   - date: 2026-08-06
     label: "Donnerstag, 6. August 2026"
   - date: 2026-09-03
