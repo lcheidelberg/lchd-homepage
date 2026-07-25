@@ -10,10 +10,11 @@ praesenz:
     label: "Dienstag, 27. Oktober 2026"
   - date: 2026-11-24
     label: "Dienstag, 24. November 2026"
+  - date: 2026-12-29
+    label: "Dienstag, 29. Dezember 2026 (**online**)"
+    note: "Ausnahme!! Findet online statt"
   - date: 2027-01-26
     label: "Dienstag, 26. Januar 2027"
-  - label: "–"
-  - label: "–"
 
 online1:
   - label: "–"
@@ -30,7 +31,6 @@ online1:
   - date: 2027-01-07
     label: "Donnerstag, 7. Januar 2027"
   - label: "–"
-  - label: "–"
 
 online2:
   - date: 2026-07-22
@@ -45,8 +45,6 @@ online2:
     label: "Mittwoch, 18. November 2026"
   - date: 2026-12-16
     label: "Mittwoch, 16. Dezember 2026"
-  - date: 2026-12-29
-    label: "Dienstag, 29. Dezember 2026"
-    note: "Ausnahme!! Findet Dienstags online statt"
   - date: 2027-01-20
     label: "Mittwoch, 20. Januar 2027"
+  - label: "–"
